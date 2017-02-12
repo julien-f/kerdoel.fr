@@ -1,0 +1,8 @@
+# Metadata
+title: "Élisabeth Estienne"
+baseurl: /kerdoel.fr
+github: https://github.com/julien-f/kerdoel.fr
+
+# Configuration
+highlighter: rouge
+markdown: kramdown
